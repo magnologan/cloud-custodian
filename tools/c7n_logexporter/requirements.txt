@@ -3,3 +3,4 @@ pyyaml
 click
 c7n
 structlog
+urllib3>=1.26.4 # not directly required, pinned by Snyk to avoid a vulnerability
